@@ -11,3 +11,7 @@ Since Big Data, Data Science, and Data Analytics are emerging technologies (they
 Data Science and Data Analytics deal with Big Data, each taking a unique approach. Data Science is an umbrella that encompasses Data Analytics. Data Science is a combination of multiple disciplines – Mathematics, Statistics, Computer Science, Information Science, Machine Learning, and Artificial Intelligence.
 
 It includes concepts like data mining, data inference, predictive modeling, and ML algorithm development, to extract patterns from complex datasets and transform them into actionable business strategies. On the other hand, data analytics is mainly concerned with Statistics, Mathematics, and Statistical Analysis. 
+
+Data Scientists and Data Analysts utilize data in different ways. Data Scientists use a combination of Mathematical, Statistical, and Machine Learning techniques to clean, process, and interpret data to extract insights from it. They design advanced data modeling processes using prototypes, ML algorithms, predictive models, and custom analysis. 
+
+While data analysts examine data sets to identify trends and draw conclusions, Data Analysts collect large volumes of data, organize it, and analyze it to identify relevant patterns. After the analysis part is done, they strive to present their findings through data visualization methods like charts, graphs, etc. Thus, Data Analysts transform the complex insights into business-savvy language that both technical and non-technical members of an organization can understand. 
