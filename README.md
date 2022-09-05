@@ -4,3 +4,6 @@ Data Analysis has been around for a long time. But up until a few years ago, dev
 
 ![image](https://user-images.githubusercontent.com/110977610/188372292-628de316-1dc5-47f9-932c-754fd23b8057.png)
 
+Big Data includes everything – texts, emails, tweets, user searches (on search engines), social media chatter, data generated from IoT and connected devices – basically, everything we do online. The data generated every day via the digital world is so vast and complex that traditional data processing and analysis systems cannot handle it. Enter Data Science and Data Analytics. 
+
+Since Big Data, Data Science, and Data Analytics are emerging technologies (they’re still evolving), we often use Data Science and Data Analytics interchangeably. The confusion primarily arises from the fact that both Data Scientists and Data Analysts work with Big Data. Even so, the difference between Data Analyst and Data Scientist is stark, fuelling the Data Science vs. Data Analytics debate. 
