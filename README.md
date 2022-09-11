@@ -15,3 +15,10 @@ It includes concepts like data mining, data inference, predictive modeling, and 
 Data Scientists and Data Analysts utilize data in different ways. Data Scientists use a combination of Mathematical, Statistical, and Machine Learning techniques to clean, process, and interpret data to extract insights from it. They design advanced data modeling processes using prototypes, ML algorithms, predictive models, and custom analysis. 
 
 While data analysts examine data sets to identify trends and draw conclusions, Data Analysts collect large volumes of data, organize it, and analyze it to identify relevant patterns. After the analysis part is done, they strive to present their findings through data visualization methods like charts, graphs, etc. Thus, Data Analysts transform the complex insights into business-savvy language that both technical and non-technical members of an organization can understand. 
+
+The course reviews some basic Python concepts, and visualization:
+
+how to read data from multiple sources (CSVs, SQL, Excel)
+how to clean and transform data using NumPy and Pandas
+how to visualize data using Matplotlib and Seaborn
+how to process data to create reports.
