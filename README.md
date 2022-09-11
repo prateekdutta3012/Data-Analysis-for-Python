@@ -24,4 +24,4 @@ The course reviews some basic Python concepts, and visualization:
 
 -> how to visualize data using Matplotlib and Seaborn
 
-how to process data to create reports.
+-> how to process data to create reports.
