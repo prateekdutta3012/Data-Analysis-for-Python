@@ -18,7 +18,7 @@ While data analysts examine data sets to identify trends and draw conclusions, D
 
 The course reviews some basic Python concepts, and visualization:
 
-how to read data from multiple sources (CSVs, SQL, Excel)
-how to clean and transform data using NumPy and Pandas
-how to visualize data using Matplotlib and Seaborn
+-> how to read data from multiple sources (CSVs, SQL, Excel)
+-> how to clean and transform data using NumPy and Pandas
+-> how to visualize data using Matplotlib and Seaborn
 how to process data to create reports.
